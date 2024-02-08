@@ -1,4 +1,6 @@
 #Dokumentacija Projekta "Labirint"
+
+
 #1. Uvod
 Projekat "Labirint" predstavlja implementaciju algoritma za pronalaženje puta kroz
 labirint. Osnovna namjena ovog projekta je demonstracija upotrebe grafova i algoritama
