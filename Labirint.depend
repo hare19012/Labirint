@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1705872651 source:c:\users\hp\desktop\labirint\labirint.cpp
+	"Labirint.h"
+
+1705763663 c:\users\hp\desktop\labirint\labirint.h
+	<iostream>
+	<vector>
+	<list>
+	<map>
+	<queue>
+	<fstream>
+	<set>
+	<sstream>
+	<iomanip>
+	<algorithm>
+	<windows.h>
+
+1706149161 source:c:\users\hp\desktop\labirint\main.cpp
+	"Labirint.h"
+
