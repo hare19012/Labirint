@@ -1,4 +1,4 @@
-#Dokumentacija Projekta "Labirint"
+**Dokumentacija Projekta "Labirint"
 
 
 #1. Uvod
